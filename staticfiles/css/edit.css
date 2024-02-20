@@ -10,6 +10,22 @@ h1{
     margin-left: 700px;
 }
 
+.btn{
+        border-radius: .5rem;
+        cursor: pointer;
+        padding:1rem 1rem;
+        text-align: center;
+        margin-top: 1rem;
+        display: block;
+        float: right;
+        width: 50px;
+        background-color: #8e44ad;
+    }
+     
+    .btn:hover{
+        background-color: #2c3e50;
+        color: #fff;
+    }
 .header{
     position: sticky;
     top:0; left:0; right: 0;
